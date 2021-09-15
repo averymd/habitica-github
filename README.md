@@ -2,7 +2,7 @@
 
 [Habitica extension](http://habitica.wikia.com/wiki/GitHub_Score_Task_Integration) to score a Habitica Task when GitHub commits are pushed.  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/niteshpatel/habitica-github)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/averymd/habitica-github)
 
 ## Installation
 
