@@ -10,5 +10,5 @@
 1. Set up webhooks for all your GitHub repositories you want to track (found under Settings &gt; Webhooks)
 1. Set the payload url to https://&lt;heroku app name&gt;.herokuapp.com/tasks/&lt;[taskId or taskAlias](http://habitica.wikia.com/wiki/Task_Alias)&gt;/score/up
 1. Set the content type to application/json
-1. Leave the default setting of push event only
+1. Leave the default setting of event triggers to just the push event
 1. Done.
