@@ -4,6 +4,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/averymd/habitica-github)
 
+## Archived
+
+After the 2022 Heroku security breach, this is being replaced with a version that does not deploy to Heroku.
+
 ## Installation
 
 1. Use the Deploy to Heroku button (note down the app name)
